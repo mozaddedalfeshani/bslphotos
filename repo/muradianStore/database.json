@@ -1,0 +1,118 @@
+{
+  "freefire": [
+    [
+      {
+        "name": "💎 115  diamond",
+        "price": 75
+      },
+
+      {
+        "name": "💎 240  diamond",
+        "price": 155
+      },
+      {
+        "name": "💎 355 diamond",
+        "price": 230
+      },
+      {
+        "name": "💎 480  diamond",
+        "price": 310
+      },
+
+      {
+        "name": "💎 610 diamond",
+        "price": 380
+      },
+      {
+        "name": "💎 1090 diamond",
+        "price": 675
+      },
+      {
+        "name": "💎 1240 diamond",
+        "price": 770
+      },
+      {
+        "name": "💎 1720 diamond",
+        "price": 1100
+      },
+      {
+        "name": "💎 1960 diamond",
+        "price": 1210
+      },
+      {
+        "name": "💎 2530 diamond",
+        "price": 1525
+      },
+      {
+        "name": "💎 5060 diamond",
+        "price": 3045
+      },
+      {
+        "name": "🪜 Level up pass",
+        "price": 155
+      },
+      {
+        "name": "⛱️ Weekly Membership",
+        "price": 150
+      },
+      {
+        "name": "🗓️ Monthly Membership",
+        "price": 760
+      }
+    ]
+  ],
+  "pubg": [
+    [
+      {
+        "name": "60 UC",
+        "price": 120
+      },
+      {
+        "name": "325 UC",
+        "price": 530
+      },
+      {
+        "name": "660 UC",
+        "price": 1050
+      },
+      {
+        "name": "1800 UC",
+        "price": 2560
+      },
+      {
+        "name": "3850 UC",
+        "price": 5150
+      },
+      {
+        "name": "8100 UC",
+        "price": 10050
+      }
+    ]
+  ],
+  "shell": [
+    {
+      "name": "65 shell MY",
+      "price": 150
+    },
+    {
+      "name": "130 shell MY",
+      "price": 290
+    },
+    {
+      "name": "260 shell MY",
+      "price": 575
+    },
+    {
+      "name": "520 Shell MY",
+      "price": 1160
+    },
+    {
+      "name": "650 shell MY",
+      "price": 1050
+    },
+    {
+      "name": "1300 shell MY",
+      "price": 2200
+    }
+  ]
+}
