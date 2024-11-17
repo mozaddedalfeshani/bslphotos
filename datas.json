@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "word": "hola",
+    "pronunciation": "oh-lah",
+    "meaning": "hello",
+    "part_of_speech": "interjection",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "when_to_say": "When greeting someone informally.",
+    "example": "Hola, ¿cómo estás? (Hello, how are you?)"
+  },
+  {
+    "id": "2",
+    "word": "gracias",
+    "pronunciation": "grah-syahs",
+    "meaning": "thank you",
+    "part_of_speech": "interjection",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "when_to_say": "When expressing gratitude.",
+    "example": "Gracias por tu ayuda. (Thank you for your help.)"
+  },
+  {
+    "id": "3",
+    "word": "adiós",
+    "pronunciation": "ah-dee-ohs",
+    "meaning": "goodbye",
+    "part_of_speech": "interjection",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "when_to_say": "When saying farewell.",
+    "example": "Adiós, nos vemos mañana. (Goodbye, see you tomorrow.)"
+  },
+  {
+    "id": "4",
+    "word": "familia",
+    "pronunciation": "fah-mee-lya",
+    "meaning": "family",
+    "part_of_speech": "noun",
+    "difficulty": "medium",
+    "lesson_no": 2,
+    "when_to_say": "When talking about family.",
+    "example": "Mi familia es muy unida. (My family is very close-knit.)"
+  },
+  {
+    "id": "5",
+    "word": "amigo",
+    "pronunciation": "ah-mee-goh",
+    "meaning": "friend",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 2,
+    "when_to_say": "When referring to a friend.",
+    "example": "Juan es mi mejor amigo. (Juan is my best friend.)"
+  },
+  {
+    "id": "6",
+    "word": "escuela",
+    "pronunciation": "es-kweh-lah",
+    "meaning": "school",
+    "part_of_speech": "noun",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "When talking about school.",
+    "example": "Voy a la escuela todos los días. (I go to school every day.)"
+  },
+  {
+    "id": "7",
+    "word": "amor",
+    "pronunciation": "ah-mor",
+    "meaning": "love",
+    "part_of_speech": "noun",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "When expressing affection.",
+    "example": "El amor es lo más importante. (Love is the most important thing.)"
+  },
+  {
+    "id": "8",
+    "word": "perro",
+    "pronunciation": "peh-rroh",
+    "meaning": "dog",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "When referring to a dog.",
+    "example": "Mi perro es muy juguetón. (My dog is very playful.)"
+  },
+  {
+    "id": "9",
+    "word": "casa",
+    "pronunciation": "kah-sah",
+    "meaning": "house",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "When talking about a house or home.",
+    "example": "Mi casa es grande. (My house is big.)"
+  },
+  {
+    "id": "10",
+    "word": "comida",
+    "pronunciation": "koh-mee-dah",
+    "meaning": "food",
+    "part_of_speech": "noun",
+    "difficulty": "medium",
+    "lesson_no": 5,
+    "when_to_say": "When discussing meals or eating.",
+    "example": "La comida mexicana es deliciosa. (Mexican food is delicious.)"
+  },
+  {
+    "id": "11",
+    "word": "agua",
+    "pronunciation": "ah-gwah",
+    "meaning": "water",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 5,
+    "when_to_say": "When asking for or referring to water.",
+    "example": "Necesito un vaso de agua. (I need a glass of water.)"
+  },
+  {
+    "id": "12",
+    "word": "trabajo",
+    "pronunciation": "trah-bah-ho",
+    "meaning": "work",
+    "part_of_speech": "noun",
+    "difficulty": "medium",
+    "lesson_no": 6,
+    "when_to_say": "When referring to a job or task.",
+    "example": "Tengo mucho trabajo hoy. (I have a lot of work today.)"
+  },
+  {
+    "id": "13",
+    "word": "mujer",
+    "pronunciation": "moo-hehr",
+    "meaning": "woman",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "When referring to a woman.",
+    "example": "Ella es una mujer fuerte. (She is a strong woman.)"
+  },
+  {
+    "id": "14",
+    "word": "feliz",
+    "pronunciation": "feh-lees",
+    "meaning": "happy",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 7,
+    "when_to_say": "When expressing happiness.",
+    "example": "Estoy muy feliz hoy. (I am very happy today.)"
+  },
+  {
+    "id": "15",
+    "word": "correr",
+    "pronunciation": "koh-rehr",
+    "meaning": "to run",
+    "part_of_speech": "verb",
+    "difficulty": "medium",
+    "lesson_no": 7,
+    "when_to_say": "When talking about running.",
+    "example": "Me gusta correr por la mañana. (I like to run in the morning.)"
+  }
+]
