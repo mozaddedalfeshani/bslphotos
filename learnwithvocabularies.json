@@ -410,332 +410,113 @@
     }
   ]
 },
+       {
+    "lesson_no": 3,
+    "lesson_title": "Lesson 3: Everyday Arabic Objects",
+    "lesson_description": "Discover names of everyday objects in Arabic.",
+    "vocabularies": [
         {
+            "id": "14",
+            "word": "لعب",
+            "pronunciation": "la'ab",
+            "meaning": "play",
+            "part_of_speech": "verb",
+            "difficulty": "easy",
             "lesson_no": 3,
-            "lesson_title": "Lesson 3: Everyday Arabic Objects",
-            "lesson_description": "Discover names of everyday objects in Arabic.",
-            "vocabularies": [
-                {
-                    "id": "14",
-                    "word": "لعب",
-                    "pronunciation": "la'ab",
-                    "meaning": "المشاركة في النشاط",
-                    "part_of_speech": "فعل",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of لعب",
-                    "example": "The Arabic word 'لعب' is used in various contexts."
-                },
-                {
-                    "id": "20",
-                    "word": "نوم",
-                    "pronunciation": "musiqa",
-                    "meaning": "ركض",
-                    "part_of_speech": "صفة",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of نوم",
-                    "example": "The Arabic word 'نوم' is used in various contexts."
-                },
-                {
-                    "id": "30",
-                    "word": "حب",
-                    "pronunciation": "amal",
-                    "meaning": "الانخراط في اللعب",
-                    "part_of_speech": "حرف جر",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of حب",
-                    "example": "The Arabic word 'حب' is used in various contexts."
-                },
-                {
-                    "id": "33",
-                    "word": "سيارة",
-                    "pronunciation": "kalb",
-                    "meaning": "حيوان أليف",
-                    "part_of_speech": "صفة",
-                    "difficulty": "متوسط",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of سيارة",
-                    "example": "The Arabic word 'سيارة' is used in various contexts."
-                },
-                {
-                    "id": "43",
-                    "word": "لعب",
-                    "pronunciation": "ta'am",
-                    "meaning": "المشاركة في النشاط",
-                    "part_of_speech": "ضمير",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of لعب",
-                    "example": "The Arabic word 'لعب' is used in various contexts."
-                },
-                {
-                    "id": "55",
-                    "word": "طعام",
-                    "pronunciation": "akal",
-                    "meaning": "الانخراط في اللعب",
-                    "part_of_speech": "حرف جر",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of طعام",
-                    "example": "The Arabic word 'طعام' is used in various contexts."
-                },
-                {
-                    "id": "59",
-                    "word": "حب",
-                    "pronunciation": "jari",
-                    "meaning": "شخص محبوب",
-                    "part_of_speech": "اسم",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of حب",
-                    "example": "The Arabic word 'حب' is used in various contexts."
-                },
-                {
-                    "id": "62",
-                    "word": "منزل",
-                    "pronunciation": "la'ab",
-                    "meaning": "طعام",
-                    "part_of_speech": "فعل",
-                    "difficulty": "متوسط",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of منزل",
-                    "example": "The Arabic word 'منزل' is used in various contexts."
-                },
-                {
-                    "id": "72",
-                    "word": "جري",
-                    "pronunciation": "kitab",
-                    "meaning": "النشاط البدني",
-                    "part_of_speech": "اسم",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of جري",
-                    "example": "The Arabic word 'جري' is used in various contexts."
-                },
-                {
-                    "id": "74",
-                    "word": "فيلم",
-                    "pronunciation": "sadeeq",
-                    "meaning": "مجموعة من الصفحات المكتوبة",
-                    "part_of_speech": "ضمير",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of فيلم",
-                    "example": "The Arabic word 'فيلم' is used in various contexts."
-                },
-                {
-                    "id": "77",
-                    "word": "منزل",
-                    "pronunciation": "kitab",
-                    "meaning": "حيوان أليف صغير",
-                    "part_of_speech": "صفة",
-                    "difficulty": "متوسط",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of منزل",
-                    "example": "The Arabic word 'منزل' is used in various contexts."
-                },
-                {
-                    "id": "88",
-                    "word": "قطة",
-                    "pronunciation": "nawm",
-                    "meaning": "شخص محبوب",
-                    "part_of_speech": "فعل",
-                    "difficulty": "متوسط",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of قطة",
-                    "example": "The Arabic word 'قطة' is used in various contexts."
-                },
-                {
-                    "id": "95",
-                    "word": "حب",
-                    "pronunciation": "madina",
-                    "meaning": "المشاركة في النشاط",
-                    "part_of_speech": "صفة",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of حب",
-                    "example": "The Arabic word 'حب' is used in various contexts."
-                },
-                {
-                    "id": "97",
-                    "word": "تفاحة",
-                    "pronunciation": "la'ab",
-                    "meaning": "مركبة",
-                    "part_of_speech": "حرف جر",
-                    "difficulty": "متوسط",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of تفاحة",
-                    "example": "The Arabic word 'تفاحة' is used in various contexts."
-                },
-                {
-                    "id": "102",
-                    "word": "فيلم",
-                    "pronunciation": "amal",
-                    "meaning": "مدينة كبيرة",
-                    "part_of_speech": "صفة",
-                    "difficulty": "متوسط",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of فيلم",
-                    "example": "The Arabic word 'فيلم' is used in various contexts."
-                },
-                {
-                    "id": "110",
-                    "word": "تفاحة",
-                    "pronunciation": "qitt",
-                    "meaning": "مركبة",
-                    "part_of_speech": "ضمير",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of تفاحة",
-                    "example": "The Arabic word 'تفاحة' is used in various contexts."
-                },
-                {
-                    "id": "112",
-                    "word": "كلب",
-                    "pronunciation": "kalb",
-                    "meaning": "شعور قوي بالمودة",
-                    "part_of_speech": "اسم",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of كلب",
-                    "example": "The Arabic word 'كلب' is used in various contexts."
-                },
-                {
-                    "id": "135",
-                    "word": "لعب",
-                    "pronunciation": "tamreen",
-                    "meaning": "فيلم",
-                    "part_of_speech": "فعل",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of لعب",
-                    "example": "The Arabic word 'لعب' is used in various contexts."
-                },
-                {
-                    "id": "138",
-                    "word": "صديق",
-                    "pronunciation": "madrasah",
-                    "meaning": "ركض",
-                    "part_of_speech": "حرف جر",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of صديق",
-                    "example": "The Arabic word 'صديق' is used in various contexts."
-                },
-                {
-                    "id": "150",
-                    "word": "أكل",
-                    "pronunciation": "madina",
-                    "meaning": "مجموعة من الصفحات المكتوبة",
-                    "part_of_speech": "حرف جر",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of أكل",
-                    "example": "The Arabic word 'أكل' is used in various contexts."
-                },
-                {
-                    "id": "152",
-                    "word": "صديق",
-                    "pronunciation": "la'ab",
-                    "meaning": "فيلم",
-                    "part_of_speech": "فعل",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of صديق",
-                    "example": "The Arabic word 'صديق' is used in various contexts."
-                },
-                {
-                    "id": "156",
-                    "word": "قطة",
-                    "pronunciation": "film",
-                    "meaning": "اكتساب المعرفة",
-                    "part_of_speech": "حرف جر",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of قطة",
-                    "example": "The Arabic word 'قطة' is used in various contexts."
-                },
-                {
-                    "id": "162",
-                    "word": "صديق",
-                    "pronunciation": "qitt",
-                    "meaning": "مكان للعيش",
-                    "part_of_speech": "صفة",
-                    "difficulty": "متوسط",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of صديق",
-                    "example": "The Arabic word 'صديق' is used in various contexts."
-                },
-                {
-                    "id": "164",
-                    "word": "جري",
-                    "pronunciation": "akal",
-                    "meaning": "مدينة كبيرة",
-                    "part_of_speech": "صفة",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of جري",
-                    "example": "The Arabic word 'جري' is used in various contexts."
-                },
-                {
-                    "id": "183",
-                    "word": "لعب",
-                    "pronunciation": "madina",
-                    "meaning": "شعور قوي بالمودة",
-                    "part_of_speech": "اسم",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of لعب",
-                    "example": "The Arabic word 'لعب' is used in various contexts."
-                },
-                {
-                    "id": "185",
-                    "word": "فيلم",
-                    "pronunciation": "tamreen",
-                    "meaning": "حيوان أليف صغير",
-                    "part_of_speech": "فعل",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of فيلم",
-                    "example": "The Arabic word 'فيلم' is used in various contexts."
-                },
-                {
-                    "id": "187",
-                    "word": "طعام",
-                    "pronunciation": "sadeeq",
-                    "meaning": "مكان للعيش",
-                    "part_of_speech": "ضمير",
-                    "difficulty": "صعب",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of طعام",
-                    "example": "The Arabic word 'طعام' is used in various contexts."
-                },
-                {
-                    "id": "188",
-                    "word": "أكل",
-                    "pronunciation": "kalb",
-                    "meaning": "حيوان أليف",
-                    "part_of_speech": "فعل",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of أكل",
-                    "example": "The Arabic word 'أكل' is used in various contexts."
-                },
-                {
-                    "id": "200",
-                    "word": "تفاحة",
-                    "pronunciation": "akal",
-                    "meaning": "شخص محبوب",
-                    "part_of_speech": "اسم",
-                    "difficulty": "سهل",
-                    "lesson_no": 3,
-                    "when_to_say": "Example usage of تفاحة",
-                    "example": "The Arabic word 'تفاحة' is used in various contexts."
-                }
-            ]
+            "when_to_say": "Used when referring to playing",
+            "example": "The Arabic word 'لعب' is used when talking about playing."
         },
+        {
+            "id": "20",
+            "word": "نوم",
+            "pronunciation": "nawm",
+            "meaning": "sleep",
+            "part_of_speech": "noun",
+            "difficulty": "easy",
+            "lesson_no": 3,
+            "when_to_say": "Used when referring to sleep",
+            "example": "The Arabic word 'نوم' is used when talking about sleep."
+        },
+        {
+            "id": "30",
+            "word": "حب",
+            "pronunciation": "hubb",
+            "meaning": "love",
+            "part_of_speech": "noun",
+            "difficulty": "medium",
+            "lesson_no": 3,
+            "when_to_say": "Used when referring to love or affection",
+            "example": "The Arabic word 'حب' is used when talking about love."
+        },
+        {
+            "id": "33",
+            "word": "سيارة",
+            "pronunciation": "sayyara",
+            "meaning": "car",
+            "part_of_speech": "noun",
+            "difficulty": "medium",
+            "lesson_no": 3,
+            "when_to_say": "Used when referring to a car",
+            "example": "The Arabic word 'سيارة' is used when talking about a car."
+        },
+        {
+            "id": "43",
+            "word": "طعام",
+            "pronunciation": "ta'am",
+            "meaning": "food",
+            "part_of_speech": "noun",
+            "difficulty": "medium",
+            "lesson_no": 3,
+            "when_to_say": "Used when referring to food",
+            "example": "The Arabic word 'طعام' is used when talking about food."
+        },
+        {
+            "id": "59",
+            "word": "منزل",
+            "pronunciation": "manzil",
+            "meaning": "house",
+            "part_of_speech": "noun",
+            "difficulty": "medium",
+            "lesson_no": 3,
+            "when_to_say": "Used when referring to a house",
+            "example": "The Arabic word 'منزل' is used when talking about a house."
+        },
+        {
+            "id": "72",
+            "word": "جري",
+            "pronunciation": "jari",
+            "meaning": "running",
+            "part_of_speech": "verb",
+            "difficulty": "hard",
+            "lesson_no": 3,
+            "when_to_say": "Used when referring to running",
+            "example": "The Arabic word 'جري' is used when talking about running."
+        },
+        {
+            "id": "74",
+            "word": "فيلم",
+            "pronunciation": "film",
+            "meaning": "movie",
+            "part_of_speech": "noun",
+            "difficulty": "hard",
+            "lesson_no": 3,
+            "when_to_say": "Used when referring to a movie",
+            "example": "The Arabic word 'فيلم' is used when talking about a movie."
+        },
+        {
+            "id": "77",
+            "word": "قطة",
+            "pronunciation": "qitta",
+            "meaning": "cat",
+            "part_of_speech": "noun",
+            "difficulty": "medium",
+            "lesson_no": 3,
+            "when_to_say": "Used when referring to a cat",
+            "example": "The Arabic word 'قطة' is used when talking about a cat."
+        }
+    ]
+}
+,
         {
             "lesson_no": 4,
             "lesson_title": "Lesson 4: Nature and Arabic Vocabulary",
